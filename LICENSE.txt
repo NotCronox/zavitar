@@ -1,0 +1,8 @@
+Zavitar - terms of use
+
+Copyright (c) 2026 the Zavitar authors.
+
+Free to use. Provided "AS IS", without warranty of any kind; no liability.
+
+Third-party components are under their own licenses (see licenses/ and
+THIRD-PARTY-NOTICES.txt) and nothing here limits your rights under them.
